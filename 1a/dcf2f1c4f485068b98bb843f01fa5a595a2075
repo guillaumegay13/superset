@@ -1,0 +1,29 @@
+apps/desktop/src/renderer/routes/_authenticated/layout.tsx
+  s_9e20b2f40f87b8::t_1e0bf3a85d5139 52
+  s_9e20b2f40f87b8::t_4c2d10ff03cb09 324
+apps/desktop/src/renderer/routes/_authenticated/components/GitInitConfirmDialog/GitInitConfirmDialog.tsx
+  s_9e20b2f40f87b8::t_d18bc45538d320 16-18
+apps/desktop/src/renderer/stores/git-init-confirm.ts
+  s_9e20b2f40f87b8::t_136fe19632f4ae 12
+apps/desktop/src/renderer/routes/_authenticated/components/GitInitConfirmDialog/GitInitConfirmDialog.test.tsx
+  s_9e20b2f40f87b8::t_4c67aa11e6c68d 1-14,20-39,41,43-46,49-50,52-53,56-58,60,62-66,68-69,71-72
+  s_9e20b2f40f87b8::t_3cce0a5d752a33 42,54
+  s_9e20b2f40f87b8::t_29760e76031a30 61,70
+  s_9e20b2f40f87b8::t_d1b9e8d116f1b4 15-19,40,47-48,51,55,59,67
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "1adcf2f1c4f485068b98bb843f01fa5a595a2075",
+  "prompts": {},
+  "sessions": {
+    "s_9e20b2f40f87b8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fa4059dc-af97-4e04-ab6b-6b2c0f87b32a",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Guillaume Gay <guillaume.gay@protonmail.com>"
+    }
+  }
+}
